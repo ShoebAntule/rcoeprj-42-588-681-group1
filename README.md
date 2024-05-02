@@ -1,6 +1,6 @@
-# Attendify: IoT-Powered Attendance Optimization
+# Attendify: Smart Attendance Optimization
 
-> **Abstract** : The "Attendify: IoT-Powered Attendance Optimization" is a cutting-edge machine learning project developed using Tkinter, focused on automating student data management, facial recognition, and attendance tracking. This system aims to streamline administrative tasks and enhance efficiency in educational institutions.
+> **Abstract** : The "Attendify: Smart Attendance Optimization" is a cutting-edge machine learning project developed using Tkinter, focused on automating student data management, facial recognition, and attendance tracking. This system aims to streamline administrative tasks and enhance efficiency in educational institutions.
 
 Overview
 The project begins with the generation of a comprehensive dataset, requiring a sample photo of each student. Using Tkinter, the system provides a user-friendly interface with login and register pages. The machine learning aspect involves training a classifier with the collected photo samples to enable accurate facial recognition.
